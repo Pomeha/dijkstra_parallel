@@ -1,0 +1,15 @@
+﻿Сборка начата 29.05.2017 20:27:52.
+     1>Проект "c:\Users\VladAkim\documents\visual studio 2013\Projects\Dijkstra\Dijkstra\Dijkstra.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Dijkstra.cpp
+         Dijkstra.cpp
+     1>c:\users\vladakim\documents\visual studio 2013\projects\dijkstra\dijkstra\dijkstra.cpp(84): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\vladakim\documents\visual studio 2013\projects\dijkstra\dijkstra\dijkstra.cpp(86): warning C4244: инициализация: преобразование "float" в "__int64", возможна потеря данных
+     1>c:\users\vladakim\documents\visual studio 2013\projects\dijkstra\dijkstra\dijkstra.cpp(281): error C4703: используется потенциально неинициализированная локальная переменная-указатель "sendcount"
+     1>c:\users\vladakim\documents\visual studio 2013\projects\dijkstra\dijkstra\dijkstra.cpp(281): error C4703: используется потенциально неинициализированная локальная переменная-указатель "displ"
+     1>c:\users\vladakim\documents\visual studio 2013\projects\dijkstra\dijkstra\dijkstra.cpp(406): error C4703: используется потенциально неинициализированная локальная переменная-указатель "overAllDistances"
+     1>Сборка проекта "c:\Users\VladAkim\documents\visual studio 2013\Projects\Dijkstra\Dijkstra\Dijkstra.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.55
